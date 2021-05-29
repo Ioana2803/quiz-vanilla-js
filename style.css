@@ -1,0 +1,17 @@
+.quiz-answers{
+  list-style-type: none;
+}
+
+.quiz-answers li input{
+  margin-right: 5px;
+}
+
+ul.quiz-answers .alert{
+  padding: 0;
+  margin-bottom: 0;
+  padding-left: 0.2rem;
+}
+
+ul.quiz-answers li{
+  padding-left: 0.2rem;
+}
